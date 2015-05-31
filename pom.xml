@@ -88,7 +88,6 @@
                             <target>
                                 <mkdir dir="${destDir}"/>
                                 <get src="${upstream.url}/rickshaw.js" dest="${destDir}"/>
-                                <get src="${upstream.url}/rickshaw.min.js" dest="${destDir}"/>
                             </target>
                         </configuration>
                     </execution>
