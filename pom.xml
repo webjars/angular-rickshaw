@@ -11,7 +11,7 @@
     <packaging>jar</packaging>
     <groupId>org.webjars</groupId>
     <artifactId>angular-rickshaw</artifactId>
-    <version>0.10.0</version>
+    <version>0.10.0-SNAPSHOT</version>
     <name>angular-rickshaw</name>
     <description>WebJar for angular-rickshaw</description>
     <url>http://webjars.org</url>
